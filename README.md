@@ -10,6 +10,16 @@ The "Chatbot_Langchain" project is designed to create a conversational agent tha
 4. Setting Up Retrieval Function
 5. Creating Chatbot with Chat Memory
 
+
+###  Tools and Libraries Used
+The project leverages a range of tools and libraries including:
+- **LangChain**: For processing and managing conversational flows.
+- **PyPDF**: To load and process PDF documents.
+- **Pandas**: For data manipulation and analysis.
+- **Matplotlib**: Used for data visualization.
+- **TikTok Token, Textract, Transformers**: For text extraction and transformation.
+- **OpenAI and FAISS-CPU**: For creating embeddings and managing vector databases.
+
 ### 1. Installs, Imports, and API Keys
 The first step involves setting up the environment by installing necessary libraries such as LangChain, PyPDF, pandas, and others. An OpenAI API key is also required for accessing certain functionalities.
 
