@@ -4,11 +4,11 @@
 The "Chatbot_Langchain" project is designed to create a conversational agent that can discuss Google's Generative AI policies. This is achieved by processing the policies available in PDF format, chunking the text for better handling, embedding the text for semantic search, and finally integrating it into a chatbot framework with memory capabilities.
 
 ## Table of Contents
-1. [Installs, Imports, and API Keys]
-2. [Loading Google Generative AI Policies and Chunking]
-3. [Embedding Text and Storing Embeddings]
-4. [Setting Up Retrieval Function]
-5. [Creating Chatbot with Chat Memory]
+1. Installs, Imports, and API Keys
+2. Loading Google Generative AI Policies and Chunking
+3. Embedding Text and Storing Embeddings
+4. Setting Up Retrieval Function
+5. Creating Chatbot with Chat Memory
 
 ### 1. Installs, Imports, and API Keys
 The first step involves setting up the environment by installing necessary libraries such as LangChain, PyPDF, pandas, and others. An OpenAI API key is also required for accessing certain functionalities.
